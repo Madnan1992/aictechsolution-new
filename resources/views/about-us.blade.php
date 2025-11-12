@@ -68,7 +68,6 @@
                             <img src="img/projects/about-one.jpg" alt="img">
                         </div>
                     </div>
-
                 </div>
                 <div class="col-lg-6">
 
